@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TripVer</string>
+    <string name="crear_aqui">\? Crea una aquí.</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta</string>
+    <string name="text_button_login">Login</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="title_activity_crear_cuenta">CrearCuentaActivity</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_confirmar_contraseña">Confirmar Contraseña</string>
+    <string name="text_button_crear">Crear</string>
+    <string name="toolbar_crear_cuenta">Crear cuenta</string>
+    <string name="hint_confirmar_correo">Confirmar correo</string>
+    <string name="hint_nocontrol">No. Control</string>
+    <string name="toolbar_trips">Trips</string>
+    <string name="zonaX">Zona Norte</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="lugares">Disponibles</string>
+    <string name="numero_lugares">4</string>
+    <string name="comprar">Comprar</string>
+    <string name="aceptar_terminos">Al dar click en CREAR, estás de acuerdo con los</string>
+    <string name="terminos">Terminos de servicio</string>
+    <string name="y">\ y</string>
+    <string name="politica">\ Política de privacidad.</string>
+    <string name="usuario">Manuel Marin</string>
+</resources>
